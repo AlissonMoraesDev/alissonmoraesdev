@@ -1,4 +1,4 @@
-### Oi, meu nome é Alisson Moraes 👋
+### 👋 Oi, meu nome é Alisson Moraes :boy:
 
 <!--
 **AlissonMoraesDev/alissonmoraesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Apaixonado por tecnologia e desenvolvimento de software.
  :rocket:  &nbsp; Trabalho como técnico em informática e com desenvolvimento web. 
  <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento frontend, linux e backend.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, esportes, games de FPS, MOBA e seriados no Netflix
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, esportes, :video_game: de FPS, MOBA e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AlissonMoraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonmoraesdev/)](https://www.linkedin.com/in/alissonmoraesdev/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-alissonmoraesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonmoraesdev@gmail.com)](mailto:alissonmoraesdev@gmail.com) |:iphone: +55 (079) 98156-6286
