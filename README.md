@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Apaixonado por tecnologia e desenvolvimento de software.
 <br />Sou FullStack Developer :computer:
 
- :rocket:  &nbsp; Trabalho como técnico em informática e com desenvolvimento web. 
- <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento frontend, linux e backend.
+ :rocket:  &nbsp; Sou técnico em informática e desenvolvedor web. 
+ <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, esportes, :video_game: GAMES e seriados.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AlissonMoraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonmoraesdev/)](https://www.linkedin.com/in/alissonmoraesdev/) 
