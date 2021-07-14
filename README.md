@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Apaixonado por tecnologia e desenvolvimento de software.
-<br />Sou FullStack Developer :computer:
+<br />Analista de suporte de TI & Desenvolvedor web :computer:
 
  :rocket:  &nbsp; Sou técnico em informática e desenvolvedor web. 
  <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minhas stack's: ReactJS, Node.js, HTML, CSS & JavaScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, esportes, :video_game: GAMES e seriados.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AlissonMoraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonmoraesdev/)](https://www.linkedin.com/in/alissonmoraesdev/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-alissonmoraesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonmoraesdev@gmail.com)](mailto:alissonmoraesdev@gmail.com) |:iphone: +55 (079) 98156-6286
+[![Gmail Badge](https://img.shields.io/badge/-alissonmoraesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonmoraesdev@gmail.com)](mailto:alissonmoraesdev@gmail.com) | :iphone: +55 (079) 98156-6286
