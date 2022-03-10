@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisson Moraes</h1>
 <h3 align="center">A passionate developer from Brazil <img src="https://www.svgrepo.com/show/168231/brazil.svg" width="16"/> </h3>
 
-- 🌱 I’m currently learning **Front-end**
+- 🌱 I’m currently learning **Web Developer**
 - 📫 How to reach me **alissonmoraesdev@gmail.com**
 - :iphone: **+55 (079) 98156-6286**
 
