@@ -31,14 +31,4 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
 </p>
 
----
-
-### 📌 Featured Projects  
-🔹 **[Project Name 1](#)** – Short description of what it does.  
-🔹 **[Project Name 2](#)** – Another interesting project that showcases your skills.  
-
-🚀 Check out my repositories for more cool stuff!  
-
----
-
 Let's build something amazing together! 💡✨
