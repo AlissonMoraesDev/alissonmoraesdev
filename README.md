@@ -3,14 +3,14 @@
 
 🚀 Full-stack developer passionate about building scalable and efficient solutions. I love turning ideas into reality through code, from web development to automation and performance optimization.
 
-🔍 Constantly exploring new technologies and best practices to enhance my projects and help businesses grow.
+🔍 Constantly exploring new technologies and best practices to improve my projects and help businesses grow.
 
-💡 Currently focusing on **Next.js, performance optimization, and scalable architectures**.
+💡 Currently focused on **Next.js, performance optimization, and scalable architectures**.
 
-📫 Let's connect!  
+📫 Let’s connect!  
 ✉️ **alissonmoraesdev@gmail.com**  
 📱 **+55 (79) 98156-6286**  
-🌎 [Portfolio (Coming Soon)](#) | [LinkedIn](https://www.linkedin.com/in/alissonmoraes)  
+🌎 [LinkedIn](https://www.linkedin.com/in/alissonmoraesdev)  
 
 ---
 
@@ -31,4 +31,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
 </p>
 
-Let's build something amazing together! 💡✨
+---
+
+💡 Always open to new opportunities and challenges!
