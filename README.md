@@ -11,9 +11,6 @@ Ajudo empresas a crescer com tecnologia de ponta, design estratégico e soluçõ
 - 🚀 **[Komanda-Controle](https://github.com/alissonmoraesdev/komanda-controle)**  
   Sistema completo de pedidos para restaurantes – API + Web + Mobile integrados
 
-- 🎯 **[Scrollead](https://github.com/alissonmoraesdev/scrollead)**  
-  Agência digital focada em performance, automação e estruturação comercial
-
 - 🧩 Outros sistemas sob medida para gestão de negócios, escalas de colaboradores, funis de vendas e automações inteligentes.
 
 ---
