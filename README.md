@@ -32,7 +32,7 @@ I'm a **Full-Stack Developer** specializing in building **scalable digital solut
 - ✅ **5+ years** of experience in software development
 - ✅ **10+ successful projects** delivered to clients
 - ✅ Expertise in **Agile methodologies** and **CI/CD practices**
-- ✅ Strong communication skills in **Portuguese** (native) and **English** (professional working proficiency)
+- ✅ Strong communication skills in **Portuguese** (native) and **English** (basic English)
 - ✅ Track record of delivering projects **on time and within budget**
 
 ---
